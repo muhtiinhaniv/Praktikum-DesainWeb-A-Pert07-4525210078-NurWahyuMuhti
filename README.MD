@@ -164,7 +164,7 @@ Pada layar kecil, ketiga tombol tersusun ke bawah dan lebarnya penuh.
 
 #### Hasil Tampilan Contoh 1
 
-![Tampilan Contoh 1](ScreenShoot/image (35).png)
+![Tampilan Contoh 1](ScreenShoot/contoh1.png)
 
 ### 5.2 Contoh 2: Form Pendaftaran Mahasiswa
 
@@ -218,6 +218,6 @@ Selector `input, select, textarea` dikelompokkan agar ketiga kontrol memakai gay
 
 #### Hasil Tampilan Contoh 2
 
-![Tampilan Contoh 1](ScreenShoot/image (36).png)
+![Tampilan Contoh 1](ScreenShoot/contoh2.png)
 
 ---
